@@ -37,14 +37,6 @@
             "hash": "999e6c134afdce1e4baeec520446eea52fc503e2b0aa1593081cd0857bc772d8",
             "size": 136
         },
-        "QeffectsGL.ini": {
-            "hash": "3cdc961bf1a5791911a7a288d0ce288e8a5030bf8008583f35659d5950bb5de0",
-            "size": 346
-        },
-        "Settings.ini": {
-            "hash": "222f34c62306a9f0905a7b96d65d480d57b17d20cf6822136ee378c5bccef1b7",
-            "size": 587
-        },
         "vorbisfile.dll": {
             "hash": "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
             "size": 999424
