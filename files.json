@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "files": {
         "Main.dll": {
             "hash": "6c79ff7208c8dc8aad639265a61d132130fbec0e03d7ddff88afa1d2a8c9ebd0",
@@ -44,6 +44,10 @@
         "Settings.ini": {
             "hash": "222f34c62306a9f0905a7b96d65d480d57b17d20cf6822136ee378c5bccef1b7",
             "size": 587
+        },
+        "TESTE.txt": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
         },
         "vorbisfile.dll": {
             "hash": "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
