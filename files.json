@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "files": {
         "Main.dll": {
             "hash": "6c79ff7208c8dc8aad639265a61d132130fbec0e03d7ddff88afa1d2a8c9ebd0",
@@ -9478,8 +9478,8 @@
             "size": 15600
         },
         "Data\\Local\\Eng\\Text_eng.bmd": {
-            "hash": "a7afa74677859795f1226bd55bf2caa1f36920054c765347310f23c74b74f6e2",
-            "size": 125226
+            "hash": "5e7cf5a71b7e248d3b9bf85d445a143bc21a49f8c971c0fa3819d62b29c40582",
+            "size": 125253
         },
         "Data\\Local\\Eng\\ImgsMapName\\Abuss.ozt": {
             "hash": "0a3ab38ee91f8379a024b389c6dfd88bd49080e2af1da71c5bc4c7769105589b",
@@ -9726,8 +9726,8 @@
             "size": 68272
         },
         "Data\\Local\\Por\\Text_por.bmd": {
-            "hash": "a7afa74677859795f1226bd55bf2caa1f36920054c765347310f23c74b74f6e2",
-            "size": 125226
+            "hash": "5e7cf5a71b7e248d3b9bf85d445a143bc21a49f8c971c0fa3819d62b29c40582",
+            "size": 125253
         },
         "Data\\Local\\Por\\ImgsMapName\\Abuss.ozt": {
             "hash": "0a3ab38ee91f8379a024b389c6dfd88bd49080e2af1da71c5bc4c7769105589b",
@@ -9970,8 +9970,8 @@
             "size": 15600
         },
         "Data\\Local\\Spn\\Text_spn.bmd": {
-            "hash": "a7afa74677859795f1226bd55bf2caa1f36920054c765347310f23c74b74f6e2",
-            "size": 125226
+            "hash": "5e7cf5a71b7e248d3b9bf85d445a143bc21a49f8c971c0fa3819d62b29c40582",
+            "size": 125253
         },
         "Data\\Local\\Spn\\ImgsMapName\\Abuss.ozt": {
             "hash": "0a3ab38ee91f8379a024b389c6dfd88bd49080e2af1da71c5bc4c7769105589b",
